@@ -1,0 +1,5 @@
+git commit -m "Removing class Skill"
+
+[master 6b365c7] Removing class Skill
+ 1 file changed, 32 deletions(-)
+ delete mode 100644 src/net/proselyte/gittutorial/company/Skill.java
